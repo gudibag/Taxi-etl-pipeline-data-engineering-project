@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on New York State taxi data covering 100,000 trips performed on a single day in March 2016, using various multi-cloud technologies, including Azure blob Storage, Python, Azure Compute Instance, Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
@@ -11,14 +11,14 @@ The goal of this project is to perform data analytics on Uber data using various
 - Programming Language - Python
 
 Google Cloud Platform
-1. Google Storage
+1. Azure Blob Storage
 2. Compute Instance 
 3. BigQuery
 4. Looker Studio
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
+Contribute to this open source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
@@ -36,3 +36,7 @@ More info about dataset can be found here:
 
 ## Complete Video Tutorial 
 Video Link - https://youtu.be/WpQECq5Hx9g
+
+## Data Report
+<img src= "Uber_data report">
+
