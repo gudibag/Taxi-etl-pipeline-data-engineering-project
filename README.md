@@ -7,14 +7,14 @@ The goal of this project is to perform data analytics on New York State taxi dat
 ## Architecture 
 <img src="architecture.jpg">
 
-## Technology Used
+## Tools
 - Programming Language - Python
 
-Google Cloud Platform
-1. Azure Blob Storage
-2. Compute Instance 
-3. BigQuery
-4. Looker Studio
+1. Google Cloud Platform
+2. Azure Blob Storage
+3. Compute Instance 
+4. BigQuery
+5. Looker Studio
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
