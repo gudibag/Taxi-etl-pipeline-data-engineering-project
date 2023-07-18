@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on New York State taxi data covering 100,000 trips performed on a single day in March 2016, using various multi-cloud technologies, including Azure blob Storage, Python, Azure Compute Instance, Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on New York State taxi data covering 100,000 trips performed on a single day in March 2016, using various multi-cloud technologies, including Azure Datalake, Python, Azure Compute Instance, Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
